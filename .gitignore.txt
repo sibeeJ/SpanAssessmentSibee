@@ -1,0 +1,12 @@
+# IntelliJ files
+.idea/
+
+# Maven generated files
+target/
+
+# Test reports and screenshots
+reports/
+screenshots/
+
+# Compiled files
+*.class
